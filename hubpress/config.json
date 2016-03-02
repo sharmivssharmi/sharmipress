@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "sharmivssharmi",
-    "repositoryName": "sharmipress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"sharmivssharmi","repositoryName":"sharmipress","branch":"gh-pages"},"site":{"title":"My hubpress blog","postsPerPage":"5","url":"https://sharmivssharmi.github.io/sharmipress"},"socialnetwork":{},"theme":{"name":"Casper","url":"//sharmivssharmi.github.io/sharmipress/themes/Casper"}}
